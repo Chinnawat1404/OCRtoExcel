@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.agentic/local/
+.agentic/logs/
+__pycache__/
+build/
+dist/
+*.spec
+!PdfToExcel.spec
+samples/
+*.xlsx
+*.csv
+agentic-ai-starter-v3/
+tesseract/
